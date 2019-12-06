@@ -1,5 +1,5 @@
 {
-    "name": "StephaneAss/StephaneHello;",
+    "name": "StephaneAss/Stephane_hello;",
     "description": "My first packagist package",
     "type": "package",
     "require": {
@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "StephaneAss\\StephaneHello\\": "src/"
+            "StephaneAss\\Stephane_hello\\": "src/"
         }
     }
 }
