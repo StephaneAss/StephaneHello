@@ -1,5 +1,5 @@
 {
-    "name": "Stephane/StephaneHello;",
+    "name": "StephaneAss/StephaneHello;",
     "description": "My first packagist package",
     "type": "package",
     "require": {
